@@ -1,0 +1,6 @@
+{
+  "name": "Fast Money Earning Bot",
+  "description": "A feature-rich Telegram Earning Web App with interactive games, tasks, withdrawals, and a secret Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
